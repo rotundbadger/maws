@@ -18,6 +18,6 @@ variable "DB_SUBNETS" {
 }
 
 
-
-
-
+variable "EIP_COUNT" {
+  type = number
+}
