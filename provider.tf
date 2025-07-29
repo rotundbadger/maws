@@ -10,8 +10,6 @@ terraform {
      Owner       = "TFProviders"
      Project     = "Test"
    }}
-
-  }
   required_providers {
     aws = {
       source  = "hashicorp/aws"
