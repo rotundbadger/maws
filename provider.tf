@@ -9,7 +9,7 @@ terraform {
      Environment = "Test"
      Owner       = "TFProviders"
      Project     = "Test"
-   }
+   }}
 
   }
   required_providers {
